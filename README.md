@@ -1,4 +1,4 @@
-![Banner GIF](https://media.giphy.com/media/WZApjduSdbPREcuruu/giphy.gif)
+[Watch with sound on Giphy](https://giphy.com/clips/NovaSound-technology-emf-nova-sound-WZApjduSdbPREcuruu)
 
 <h1 align="center">Hi 👋, I'm Aditya Padhi</h1>
 <h3 align="center">Student From BBSR Odisha</h3>

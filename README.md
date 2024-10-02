@@ -1,3 +1,4 @@
+![logo](https://github.com/AdityaPadhi-lab/AdityaPadhi-lab/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Aditya Padhi</h1>
 <h3 align="center">Student From BBSR Odisha</h3>
 

@@ -1,4 +1,4 @@
-![Header]("D:\GITHUB.GIFS\giphy.webp")
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Aditya Padhi</h1>
 <h3 align="center">Student From BBSR Odisha</h3>
 

@@ -1,7 +1,7 @@
-![logo]([https://github.com/AdityaPadhi-lab/AdityaPadhi-lab/blob/main/banner.png](https://github.com/AdityaPadhi-lab/AdityaPadhi-lab/blob/main/giphy.webp)
+
 <h1 align="center">Hi 👋, I'm Aditya Padhi</h1>
 <h3 align="center">Student From BBSR Odisha</h3>
-
+<img align="center" alt="coding" width="400" src=""D:\GITHUB.GIFS\giphy.gif"">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityapadhi-lab&label=Profile%20views&color=0e75b6&style=flat" alt="adityapadhi-lab" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityapadhi-lab" alt="adityapadhi-lab" /></a> </p>

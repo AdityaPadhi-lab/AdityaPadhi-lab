@@ -1,4 +1,5 @@
-![Banner GIF](https://i.gifer.com/PX5H.gif)
+![Banner GIF](https://media.giphy.com/media/WZApjduSdbPREcuruu/giphy.gif)
+
 <h1 align="center">Hi 👋, I'm Aditya Padhi</h1>
 <h3 align="center">Student From BBSR Odisha</h3>
 

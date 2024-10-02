@@ -8,8 +8,13 @@
   <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker Logo" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure Logo" width="60" height="60"/>
   <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="60" height="60"/>
+<img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker Logo" width="60" height="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="60" height="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C Logo" width="60" height="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/en/9/9e/JQuery_logo.svg" alt="jQuery Logo" width="60" height="60"/>
+
 </p>
-<h1 align="center">Hi 👋, I'm Aditya Padhi ❤️</h1>
+<h1 align="center">Hi 👋, I'm Aditya Padhi❤️</h1>
 <h3 align="center">Student From BBSR Odisha</h3>
 
 <img align="center" alt="coding" width="1000" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">

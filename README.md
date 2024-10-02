@@ -62,3 +62,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityapadhi-lab&show_icons=true&locale=en" alt="adityapadhi-lab" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityapadhi-lab&" alt="adityapadhi-lab" /></p>
+
+<img align="center" alt="Thank You" width="1000" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXRsNnlka3U5cndkOW4xdnN2aHY2czE0ZXloYTd0c25lNzBuNTBldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PW2YmRu5TvbJ7ZJpQg/giphy.webp">
+

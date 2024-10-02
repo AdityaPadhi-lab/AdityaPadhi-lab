@@ -1,4 +1,4 @@
-![Header](https://giphy.com/clips/NovaSound-technology-emf-nova-sound-WZApjduSdbPREcuruu)
+<img src="https://https://giphy.com/clips/NovaSound-technology-emf-nova-sound-WZApjduSdbPREcuruu/banner.svg" alt="Banner" width="100%" height="auto" />
 <h1 align="center">Hi 👋, I'm Aditya Padhi</h1>
 <h3 align="center">Student From BBSR Odisha</h3>
 

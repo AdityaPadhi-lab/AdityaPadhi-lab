@@ -1,5 +1,5 @@
-<img src="![Uploading image.png…]()
-" alt="Banner" width="100%" height="auto" />
+![Banner Animation](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2tqYjR2eG11cTh6ZXVjMjBlOTh0MHo0azVjazF4cWl1aDg4bjBjdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tOY3KjQUL9YhRT2/giphy.webp)
+
 <h1 align="center">Hi 👋, I'm Aditya Padhi</h1>
 <h3 align="center">Student From BBSR Odisha</h3>
 

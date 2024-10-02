@@ -2,8 +2,6 @@
 <h2>Technologies I Use</h2>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS Logo" width="150px" />
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="60" height="60"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Artificial_intelligence.svg" alt="AI" width="60" height="60"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_deep_learning.svg/2048px-Logo_deep_learning.svg.png" alt="ML" width="60" height="60"/>
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="60" height="60"/>
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="60" height="60"/>
 <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" width="60" height="60"/>
